@@ -507,6 +507,14 @@
       "oAP" : "\/dev\/content\/about.html",
       "oF" : 0
     },
+    "\/dev\/content\/home_gallery.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/content\/home_gallery.html",
+      "oF" : 0
+    },
     "\/dev\/content\/home_gallery.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -601,6 +609,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/global\/scripts.html",
+      "oF" : 0
+    },
+    "\/dev\/home.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/home.html",
       "oF" : 0
     },
     "\/dev\/home.kit" : {
